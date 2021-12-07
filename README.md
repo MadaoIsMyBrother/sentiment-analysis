@@ -51,4 +51,6 @@ The function of **filtered_timeline** is to filter the data to a single vaccine 
 ## Contributors
 
 This project exists thanks to all the people who contribute. 
-<a href="https://github.com/MadaoIsMyBrother/sentiment-analysis/graphs/contributors"><img src="https://opencollective.com/sentiment-analysis/contributors.svg?width=890&button=false" /></a>
+<a href = "https://github.com/MadaoIsMyBrother/sentiment-analysis/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = MadaoIsMyBrother/sentiment-analysis"/>
+</a>
