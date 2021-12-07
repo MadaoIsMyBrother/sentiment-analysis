@@ -53,3 +53,9 @@ The function of **filtered_timeline** is to filter the data to a single vaccine 
 <a href="https://github.com/MadaoIsMyBrother/sentiment-analysis/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MadaoIsMyBrother/sentiment-analysis" />
 </a>
+The project is evenly distributed to each one of the team members. 
+We have four teammates: N = 4, 20 * N = 80 hours
+Data collection: 10h
+Coding and Testing: 40h
+Analysis: 15h
+Writing: 15h
